@@ -1,0 +1,38 @@
+
+.ui.borderless.inverted.topmenu.six.item.menu{
+  background-color: black;
+  height: 30px;
+  box-shadow: none;
+  border: none;
+  margin: 0px;
+  border-radius: 0px;
+  color: white;
+  font-family: monospace;
+}
+
+.ui.three.column.grid.container {
+  background-color: black;
+  height: 200px;
+  color: white;
+  font-family: monospace;
+}
+
+
+.footer-background {
+  padding-top: 20px;
+  background-color: black;
+  height: 400px;
+  color: white;
+}
+
+ui.centered.image {
+  background-color: black;
+}
+#bigWord {
+  width: 300px;
+}
+
+#leftImg {
+  size: 200px;
+  height: 40px;
+}
